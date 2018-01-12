@@ -1,0 +1,147 @@
+#logo{
+  text-align: center;
+}
+#topic{
+  color: #fff; 
+  background: red; 
+  padding: 7px 7px; 
+  text-decoration: none;
+  width : 300px;
+  margin : auto;
+}
+#tittle{
+    padding: 7px 7px;
+    background-color: grey;
+    width: 1000px;
+    height: 66px;
+    text-align: left;
+}
+#topicleft{
+    text-align: left;
+}
+.header{
+    background-color: grey;
+    padding: 7px 7px;
+    text-align: left;
+    width : 200px;
+    margin:
+}
+div.logo{
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+    /*margin-left: 100;*/
+    left: -100px;
+    animation-direction: alternate;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+body{
+    color: white;
+    background-repeat: repeat;
+    background-size: 33.5%;
+
+}
+h3{
+    border: 3px solid #fafafa;
+
+
+}
+div.trailer-topic{
+    position: center
+}
+div.shoesgallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    /*float: left;*/
+    display: inline-block;
+    text-align: center;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    border: 3px solid #fafafa;
+}
+.myDIV{
+ /*   position: absolute;
+    top: 1100px;*/
+    /*width: 100px;*/
+    height: 20px;
+   /* background-color: orange;*/
+    animation-name: example;
+    animation-duration: 2.05s;
+    left: -100px;
+    /*animation-timing-funtion :linear;*/
+    /*animation-delay:0s;*/
+    animation-iteration-count: infinite;
+
+    /*margin-left: 100;*/
+    animation-direction: alternate;
+    /*animation-fill-mode: backwards;*/
+    /*animation-play-state: play ;*/
+}
+
+#orange {
+    background-color: orange;
+    width: 100px;
+    /*left: -100px;*/
+    
+}
+
+#yellow {
+    background-color: yellow;
+    width: 80px;
+    /*left: -90px;*/
+}
+
+#pink{
+    background-color: salmon;
+    width: 60px;
+    /*left: -80px;*/
+}
+
+    @keyframes example{
+        100%{
+            width: 720px;
+            background-color:initial;
+            margin-left: 0%;
+            /*right: 0px;
+            left: 0px;*/
+        }
+  1>color: #fff; 
+  background: red; 
+  padding: 7px 7px; 
+  text-decoration: none;
+  width : 80px;
+  margin : auto;
+
+
+  2>  text-align: center;
+    content: 0px;
+    text-align: center; 
+  font-family: Helvetica, Arial, sans-serif; 
+  font-weight: bold; 
+  font-style : italic;
