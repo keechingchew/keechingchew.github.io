@@ -19,8 +19,8 @@ function turnToRed(){
 
 // document.write('My JavaScript is alive')
 
-// alert('Hello its A')
-// alert('Dont give up')
+alert('Hello')
+alert('Noob SooCheng')
 // turnToRed();
 
 
